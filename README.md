@@ -4,7 +4,7 @@ My name is Lucas, 28 years old, and I'm a software developer.
 <br>
 I am passionate about technology and all that it can provide.
 <br>
-I like to always study and learn new things, and I always try to keep up to date with current technologies.
+I seek through programming to bring positive and reliable experiences to the final user.
 
 ## Technologies
 Technologies that I work, study and try to keep myself in constant improvement :computer:
