@@ -7,7 +7,8 @@ I am passionate about technology and all that it can provide, and I seek through
 
 
 ## :hammer_and_wrench: &nbsp;Tech Stack
-
+Technologies that I work, study and try to keep myself in constant improvement :computer:
+<br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypesCript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
