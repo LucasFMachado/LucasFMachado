@@ -1,5 +1,5 @@
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello!! Nice to meet you</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello!! Nice to meet you</h1>
 
 My name is Lucas, 28 years old, and I'm a software developer.
 <br>
