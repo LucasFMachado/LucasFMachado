@@ -1,10 +1,11 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello!! Nice to meet you</h1>
 
-My name is Lucas, 28 years old, and I'm a software developer.
+My name is Lucas, 29 years old, and I'm a software developer.
 <br>
 I am passionate about technology and all that it can provide, and I seek through programming to bring positive and reliable experiences to the final user.
-
+<br>
+To check my portfolio, you can access <a href="https://www.lucasfmachado.me" target="_blank">here</a>.
 
 ## :hammer_and_wrench: &nbsp;Tech Stack
 Technologies that I work, study and try to keep myself in constant improvement :computer:
@@ -29,7 +30,8 @@ Technologies that I work, study and try to keep myself in constant improvement :
 Feel free to get in touch if necessary
 <div>
   <a href = "mailto:lucas.fmachado19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-flores-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/lucas-flores-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.lucasfmachado.me" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%f44336?style=for-the-badge&logo=aboutdotme&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
