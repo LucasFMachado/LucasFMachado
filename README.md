@@ -31,5 +31,3 @@ Feel free to get in touch if necessary
 <div>
   <a href = "mailto:lucas.fmachado19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-flores-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.lucasfmachado.me" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%f44336?style=for-the-badge&logo=aboutdotme&logoColor=white" target="_blank"></a>
-</div>
