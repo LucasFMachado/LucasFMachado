@@ -5,7 +5,6 @@ My name is Lucas, 29 years old, and I'm a software developer.
 <br>
 I am passionate about technology and all that it can provide, and I seek through programming to bring positive and reliable experiences to the final user.
 <br>
-To check my portfolio, you can access <a href="https://www.lucasfmachado.me" target="_blank">here</a>.
 
 ## :hammer_and_wrench: &nbsp;Tech Stack
 Technologies that I work, study and try to keep myself in constant improvement :computer:
